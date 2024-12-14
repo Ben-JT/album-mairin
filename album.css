@@ -389,6 +389,15 @@ body {
   body {
     overflow: visible;
   }
+  #app {
+    width: 90%; /* Ajusta el tamaño para pantallas pequeñas */
+    margin: 0 auto; /* Centra horizontalmente */
+    display: flex; /* Activa flexbox */
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    height: 100vh; /* Asegura que el contenedor ocupe toda la pantalla */
+  }
+    
 }
 
 /* .back_image {
