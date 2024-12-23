@@ -8,7 +8,7 @@ new Vue({
           img1: "images/cat couple.jpg",
           img2: "images/cat couple2.jpg",
           img3: "images/cat couple3.jpg",
-          title: "MI PRINCIPE Y AMIGOS",
+          title: "FACU - AMIGOS",
           isOpen: false,
         },
         // {
@@ -22,7 +22,7 @@ new Vue({
           img1: "images/cat baby2.jpg",
           img2: "images/cat baby.jpg",
           img3: "images/cat baby3.jpg",
-          title: "FACU-AMIGOS",
+          title: "FACU - AMIGOS",
           isOpen: false,
         },
         // {
